@@ -23,8 +23,6 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
-                    println("First commit")
-                    println("Second commit")
                     println("Master")
                 }
             }
