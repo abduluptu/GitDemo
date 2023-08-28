@@ -25,8 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     println("First commit")
                     println("Second commit")
-                    println("Dev")
-                    println("Change 1 commit")
+                    println("Change 2 ")
                 }
             }
         }
