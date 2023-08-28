@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     println("First commit")
                     println("Second commit")
                     println("Dev")
+                    println("Change 1 commit")
                 }
             }
         }
