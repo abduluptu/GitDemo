@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     println("First commit")
                     println("Second commit")
                     println("Master commit")
+                    println("Hello from your friend")
                 }
             }
         }
